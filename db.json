@@ -1,0 +1,44 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "May the Grace of God fill your heart, mind and spirit with peace and love , joy and happiness, faith and hope during the Chrismas",
+      "author": "Prof. Geoffrey Wango"
+    },
+    {
+      "id": 2,
+      "quote": "Life is a process and is related to enabling us and others to achieve apurp[ose in the face of success and at times uncertainity",
+      "author": "Edward Mwai"
+    },
+    {
+      "id": 3,
+      "quote": "What is the meaning and worth of human life? Question about life's meaning often vex us",
+      "author": "Elijah Miller"
+    },
+    {
+      "id": 4,
+      "quote": "Football is not neccesarily won by best playes, its is basically won by the team with the best attitude",
+      "author": "Simon Mwangi"
+    },
+    {
+      "id": 5,
+      "quote": "Everyday is an opprotunity disguised by a challenge",
+      "author": "Lionel Messi"
+    },
+    {
+      "id": 6,
+      "quote": "Football doesnot build character, it reveals character",
+      "author": "Peter Drury"
+    },
+    {
+      "quote": "Arsenal is the best team in the world",
+      "author": "Simon Mwangi",
+      "id": 7
+    },
+    {
+      "quote": "Arsenal will win the premier league",
+      "author": "Mikel Arteta",
+      "id": 8
+    }
+  ]
+}
